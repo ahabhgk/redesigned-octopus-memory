@@ -1,6 +1,6 @@
 # Redesigned Octopus Memory
 
-Collect some really good articles, because the authors of some articles really don't know how to write and they only konw copy everywhere, which misled many people, making it really difficult to really understand something very simple. FUCK THEM!!! (**It is undeniable that some collections in this repo may also have errors, but I will try my best to ensure the quality of the articles and speeches. I hope you can develop the habit of self-thinking, and test it at any time with really correct specifications and definitions.**)
+Collect some really good articles, because the authors of some articles really don't know how to write and they only konw copy everywhere, which misled many people, making it really difficult to really understand something very simple. (**It is undeniable that some collections in this repo may also have errors, but I will try my best to ensure the quality of the articles and speeches. I hope you can develop the habit of self-thinking, and test it at any time with really correct specifications and definitions.**)
 
 ## JavsScript
 
@@ -31,3 +31,13 @@ Collect some really good articles, because the authors of some articles really d
 ## Functional Programming
 
 [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html#translations)
+
+## Some Blogs
+
+[Jake Archibald](https://jakearchibald.com/)
+
+[André Staltz](https://staltz.com/blog.html)
+
+[Dan Abramov](https://overreacted.io/)
+
+[工业聚](https://www.zhihu.com/people/lucifier129)
