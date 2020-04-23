@@ -8,6 +8,8 @@ Collect some really good articles, because the authors of some articles really d
 
 [进阶必读：深入理解 JavaScript 原型](https://zhuanlan.zhihu.com/p/87667349)
 
+[JS面向对象的根基：无类继承@FEDAY_2018](https://www.bilibili.com/video/BV1Tp4y1y74Y) / [PPT](./assets/classless_inheritance_in_javascript/pdf)
+
 ### Event Loop
 
 [菲利普·罗伯茨：到底什么是Event Loop呢？ | 欧洲 JSConf 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ&list=PLVJhojzLehVzXw79gwKecDNcHUN7M0CGw&index=5&t=0s)
