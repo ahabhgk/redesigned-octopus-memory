@@ -1,6 +1,6 @@
 # Redesigned Octopus Memory
 
-Collect some really good articles, because the authors of some articles really don't know how to write and they only konw copy everywhere, which misled many people, making it really difficult to really understand something very simple. (**It is undeniable that some collections in this repo may also have errors, but I will try my best to ensure the quality of the articles and speeches. I hope you can develop the habit of self-thinking, and test it at any time with really correct specifications and definitions.**)
+My Collection of good articles...
 
 ## JavsScript
 
@@ -20,15 +20,23 @@ Collect some really good articles, because the authors of some articles really d
 
 [100 行代码实现 Promises/A+ 规范](https://zhuanlan.zhihu.com/p/83965949)
 
-### Seems NB, But I Don't Understand Now
+## React
 
-[JAVASCRIPT GETTER-SETTER PYRAMID](https://staltz.com/javascript-getter-setter-pyramid.html)
+[All blogs about react in Dan Abramov's Blog](https://overreacted.io/)
+
+[BetaSu / React on The Way](https://github.com/BetaSu/react-on-the-way)
+
+[Inside Fiber: in-depth overview of the new reconciliation algorithm in React](https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e)
 
 ## Browser
 
 [从浏览器多进程到JS单线程，JS运行机制最全面的一次梳理](https://segmentfault.com/a/1190000012925872)
 
 [从输入URL到页面加载的过程？如何由一道题完善自己的前端知识体系！](https://segmentfault.com/a/1190000013662126)
+
+## Thought
+
+[JAVASCRIPT GETTER-SETTER PYRAMID](https://staltz.com/javascript-getter-setter-pyramid.html)
 
 ## Functional Programming
 
