@@ -8,7 +8,7 @@ My Collection of good articles...
 
 [进阶必读：深入理解 JavaScript 原型](https://zhuanlan.zhihu.com/p/87667349)
 
-[JS面向对象的根基：无类继承@FEDAY_2018](https://www.bilibili.com/video/BV1Tp4y1y74Y) / [PPT](./assets/classless_inheritance_in_javascript/pdf)
+[JS面向对象的根基：无类继承@FEDAY_2018](https://www.bilibili.com/video/BV1Tp4y1y74Y) / [PPT](./assets/classless_inheritance_in_javascript.pdf)
 
 ### Event Loop
 
@@ -27,6 +27,8 @@ My Collection of good articles...
 [BetaSu / React on The Way](https://github.com/BetaSu/react-on-the-way)
 
 [Inside Fiber: in-depth overview of the new reconciliation algorithm in React](https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e)
+
+[Fiber & Algebraic Effects](https://www.yuque.com/docs/share/a142f6d5-114a-4924-8d96-17edea329357)
 
 ## Browser
 
