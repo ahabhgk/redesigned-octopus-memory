@@ -16,6 +16,10 @@ My Collection of good articles...
 - [JS 面向对象的根基：无类继承@FEDAY_2018](https://www.bilibili.com/video/BV1Tp4y1y74Y) / [PPT](./assets/classless_inheritance_in_javascript.pdf)
 - [100 行代码实现 Promises/A+ 规范](https://zhuanlan.zhihu.com/p/83965949)
 
+### TypeScript
+
+- [TypeScript 进阶](https://zhuanlan.zhihu.com/p/370000610)
+
 ### Browser
 
 - [菲利普·罗伯茨：到底什么是 Event Loop 呢？ | 欧洲 JSConf 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ&list=PLVJhojzLehVzXw79gwKecDNcHUN7M0CGw&index=5&t=0s)
@@ -38,6 +42,7 @@ My Collection of good articles...
 ## Functional Programming
 
 - [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html#translations)
+- [前端中的 Monad](https://zhuanlan.zhihu.com/p/47130217)
 
 ## Some Blogs
 
