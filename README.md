@@ -24,8 +24,7 @@ My Collection of good articles...
 
 - [菲利普·罗伯茨：到底什么是 Event Loop 呢？ | 欧洲 JSConf 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ&list=PLVJhojzLehVzXw79gwKecDNcHUN7M0CGw&index=5&t=0s)
 - [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/?utm_source=html5weekly)
-- [从浏览器多进程到 JS 单线程，JS 运行机制最全面的一次梳理](https://segmentfault.com/a/1190000012925872)
-- [从输入 URL 到页面加载的过程？如何由一道题完善自己的前端知识体系！](https://segmentfault.com/a/1190000013662126)
+- [从输入 URL 到页面加载完成的过程中都发生了什么事情](http://fex.baidu.com/blog/2014/05/what-happen/)
 
 ### React
 
